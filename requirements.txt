@@ -16,7 +16,6 @@ scipy==1.4.1              # via seaborn
 seaborn==0.10.1
 six==1.15.0               # via cycler, python-dateutil
 datetime==4.3.0
-pickel5==0.011
 future==0.18.2
 os.path2==0.0.4
 google-api-python-client==1.23.0
